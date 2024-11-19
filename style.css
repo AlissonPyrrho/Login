@@ -23,7 +23,7 @@ body {
     color: white;
     padding: 30px 40px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
-    /* backdrop-filter: blur(2px);
+    /* backdrop-filter: blur(5px);
     background: rgba(255, 255, 255, 0.3); */
 }
 
@@ -62,4 +62,24 @@ body {
     transform: translatey(-50%);
     font-size: 20px;
 
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    margin: -15px 0 15px;
+}
+
+.remember-forgot label input {
+    accent-color: #fff;
+    margin-right: 5px;
+}
+
+.remember-forgot a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.remember-forgot a:hover {
+    text-decoration: underline;
 }
