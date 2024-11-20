@@ -14,4 +14,4 @@ Este projeto é uma página de login simples, criada com **HTML5** e **CSS3**, p
 ## Funcionalidades
 - Campo para inserção de **e-mail** e **senha**.
 - Botão de login estilizado.
-- Checkboxes e links.
+- Checkboxe e links.
